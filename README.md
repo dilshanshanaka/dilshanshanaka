@@ -32,6 +32,6 @@ __Languages and Tools__
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<!-- __GitHub Stats__
+__GitHub Stats__
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dilshanshanaka) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=dilshanshanaka) 
